@@ -5,6 +5,6 @@
 </p>
 <p align="center">
   <a href="mailto:forhadak@mun.ca">📧 forhadak@mun.ca</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">💼 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/forhad-ahmed-khan-9a1a0522b/">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://forhadahmedkhan.github.io">🌐 Portfolio</a>
 </p>
