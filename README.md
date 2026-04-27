@@ -69,4 +69,3 @@
   <i>Open to opportunities in Data, AI/ML, Software Quality & IT — let's connect!</i>
 </p>
 
---- END OF PROFILE README ---
