@@ -17,7 +17,6 @@
 
 - 🎓 Graduate in **Computer Engineering** from Memorial University of Newfoundland (2025)
 - 🤖 Passionate about **AI/ML**, **data pipelines**, and **intelligent systems**
-- 🔍 Former **Software Quality Engineer** at BRAC IT — I care about building things that actually work
 - 📍 Based in St. John's, NL, Canada — open to remote and on-site opportunities
 - 🌱 Currently exploring: LLMs, RAG systems, and MLOps
 
